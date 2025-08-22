@@ -5,7 +5,14 @@ export function Header() {
     <>
       <div className="header">
         <div className="left-section">
-          <img className="logo" src="images/logo.gif" />
+          <img
+            className="logo"
+            src="images/BTD6Logo.webp
+          
+          
+          
+          "
+          />
           <p className="title">Bloons Tower Defense Guide</p>
         </div>
         <div className="right-section">

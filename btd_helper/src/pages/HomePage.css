@@ -1,0 +1,37 @@
+.home-page {
+  margin-top: 120px;
+}
+.monkey-grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+}
+.monkey-image{
+    width: 300px;
+}
+
+.monkey-Description {
+  max-width: 250px;  
+  font-size: 16px;  
+  line-height: 4;   
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.monkey-card {
+  box-shadow: 1px 1px 0px 0px rgb(207, 207, 207);
+  padding: 30px;
+  text-align: center;
+  justify-content: space-between;
+
+}
+
+.monkey-name{
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.monkey-type{
+margin-bottom: 10px;
+}
